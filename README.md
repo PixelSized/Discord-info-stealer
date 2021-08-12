@@ -22,3 +22,10 @@ FakeFileName = "Windows Firewall" <--- Change this to the fake desired name.
 
 # Support
 Create an issue, or message me on discord.
+
+# Contribute
+Feel free to make changes, or rewrite the code if you wish, and then publish the changes back, itll be reviewed or whatever, idrc
+
+I know i said this is for educational purposes, however why tf would you be here to learn lmao.
+while you're "learning" buy me a coffee eh?
+https://paypal.me/jenkscalia
